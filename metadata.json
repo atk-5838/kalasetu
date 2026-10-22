@@ -1,0 +1,6 @@
+{
+  "name": "KalaSetu - Heritage Artisan Marketplace",
+  "description": "Digital market access bridging regional coastal artisans of Karnataka to global conscious patrons with voice listing, authenticity verification, and cultural storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
